@@ -1,0 +1,21 @@
+{
+    "name": "kule/packist-first",
+    "description": "test",
+    "homepage": "https://github.com/kulehung/dcat-admin-custom",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kulehung",
+            "email": "kulehung@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "HelloWorld": "src/"
+        }
+    }
+}
