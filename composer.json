@@ -14,5 +14,6 @@
     },
     "psr-4": {
         "Kule\\PackistFirst\\": "src/"
-    }
+    },
+    "minimum-stability": "dev"
 }
